@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'Guggeli-Bold';
+    src: url('./Guggeli-Bold-rounded.woff2') format('woff2'),
+         url('./Guggeli-Bold-rounded.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Guggeli-Regular';
+    src: url('./Guggeli-Regular-rounded.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
