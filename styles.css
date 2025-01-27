@@ -9,7 +9,8 @@
 
 @font-face {
     font-family: 'Guggeli-Regular';
-    src: url('./Guggeli-Regular-rounded.woff2') format('woff2');
+    src: url('./Guggeli-Regular-rounded.woff2') format('woff2'),
+        url('./Guggeli-Regular-rounded.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
